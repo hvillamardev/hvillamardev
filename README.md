@@ -1,9 +1,9 @@
 👋 Hi, my name is Hilario Villamar Beltrán, I am Software Engineer in Ecuador.
 
-👀 I’m interested in development of technological solutions
-🌱 I’m currently learning Artificial intelligence
-💞️ I’m looking to collaborate on IT, IoT and AI projects
-📫 You can reach by Linkedin: https://www.linkedin.com/in/hvillamar/
+- 👀 I’m interested in development of technological solutions
+- 🌱 I’m currently learning Artificial intelligence
+- 💞️ I’m looking to collaborate on IT, IoT and AI projects
+- 📫 You can reach by Linkedin: https://www.linkedin.com/in/hvillamar/
 
 
 <!---
