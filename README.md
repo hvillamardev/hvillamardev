@@ -1,4 +1,4 @@
-👋 Hi, my name is Hilario Villamar Beltrán, I am Software Engineer in Ecuador.
+👋 Hi, my name is Hilario Villamar Beltrán, I am a Software Engineer in Ecuador.
 
 - 👀 I’m interested in development of technological solutions
 - 🌱 I’m currently learning Artificial intelligence
