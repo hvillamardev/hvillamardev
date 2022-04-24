@@ -6,7 +6,7 @@ Senior Software Engineer | Tech Lead | Software Architect
 
 I am a Full-Stack Software Engineer with 6+ years of experience in the Design, Development, Integration and Implementation of Technological Solutions and IT Project Management with the use of Agile Methodologies and Lean Approaches. I have experience in Team Leadership in the areas of Innovation, Software Architecture and Projects in IIot and AI Technologies.
 
-* 🌍  I'm based in Guayaquil - Ecuador
+* 🌍  I'm based in Guayaquil, Ecuador
 * 🖥️  See my portfolio at [hvillamardev](http://hvillamardev.netlify.app/)
 * 🧠  I'm learning Artificial Intelligence
 * 🤝  I'm open to collaborating on Web, IoT and AI projects
