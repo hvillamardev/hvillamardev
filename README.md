@@ -141,4 +141,12 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the Design, D
 </div>
 
 ### Support
+
+ <p><a href="https://www.buymeacoffee.com/ikusoft">
+                <img
+                  src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=ikusoft&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
+                  alt="Buy me a pizza"
+                />
+              </a></p><br><br>
+
 <p><a href="https://www.buymeacoffee.com/ikusoft"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ikusoft" /></a></p><br><br>
