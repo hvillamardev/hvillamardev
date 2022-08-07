@@ -59,6 +59,23 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the Design, D
 
 <b>My GitHub Stats</b>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=hvillamardev" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=hvillamardev" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hvillamardev/count.svg?"  />
+</div>
+
+###
+
+
+
 <a href="http://www.github.com/hvillamardev"><img src="https://github-readme-stats.vercel.app/api?username=hvillamardev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hvillamardev's GitHub stats" /></a>
 
 <a href="http://www.github.com/hvillamardev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hvillamardev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
