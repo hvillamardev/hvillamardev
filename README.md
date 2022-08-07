@@ -63,6 +63,8 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the Design, D
 
 <a href="http://www.github.com/hvillamardev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hvillamardev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/hvillamardev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvillamardev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/hvillamardev"><img src="https://activity-graph.herokuapp.com/graph?username=hvillamardev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ###
@@ -70,8 +72,6 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the Design, D
 ![snake gif](https://github.com/hvillamardev/hvillamardev/blob/output/github-contribution-grid-snake.gif)
 
 ###
-
-<a href="https://github.com/hvillamardev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvillamardev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ikusoft"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ikusoft" /></a></p><br><br>
