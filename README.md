@@ -69,7 +69,7 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the Design, D
 
 ###
 
-![snake gif](https://github.com/hvillamardev/hvillamardev/blob/output/github-contribution-grid-snake.gif)
+<img href="https://raw.githubusercontent.com/hvillamardev/hvillamardev/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
