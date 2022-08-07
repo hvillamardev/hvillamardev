@@ -1,15 +1,13 @@
-Hi 👋 My name is Hilario Villamar Beltrán
-=========================================
+# Hi 👋 My name is Hilario Villamar Beltrán
 
-Senior Software Engineer | Tech Lead | Software Architect
----------------------------------------------------------
+## Senior Software Engineer | Tech Lead | Software Architect
 
 I am a Full-Stack Software Engineer with 6+ years of experience in the Design, Development, Integration and Implementation of Technological Solutions and IT Project Management with the use of Agile Methodologies and Lean Approaches. I have experience in Team Leadership in the areas of Innovation, Software Architecture and Projects in IIot and AI Technologies.
 
-* 🌍  I'm based in Guayaquil, Ecuador
-* 🖥️  See my portfolio at [hvillamardev](http://hvillamardev.netlify.app/)
-* 🧠  I'm learning Artificial Intelligence
-* 🤝  I'm open to collaborating on Web, IoT and AI projects
+- 🌍  I'm based in Guayaquil, Ecuador
+- 🖥️  See my portfolio at [hvillamardev](http://hvillamardev.netlify.app/)
+- 🧠  I'm learning Artificial Intelligence
+- 🤝  I'm open to collaborating on Web, IoT and AI projects
 
 ### Skills
 
@@ -50,7 +48,6 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the Design, D
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/hvillamardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hvillamar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hvillamarb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -59,33 +56,21 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the Design, D
 
 <b>My GitHub Stats</b>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=hvillamardev" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=hvillamardev" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/hvillamardev/count.svg?"  />
 </div>
 
 ###
 
-
 <div align="center">
+  <a href="http://www.github.com/hvillamardev"><img src="https://activity-graph.herokuapp.com/graph?username=hvillamardev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="http://www.github.com/hvillamardev"><img src="https://github-readme-stats.vercel.app/api?username=hvillamardev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hvillamardev's GitHub stats" /></a>
 
 <a href="http://www.github.com/hvillamardev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hvillamardev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/hvillamardev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvillamardev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
 </div>
-
-<a href="http://www.github.com/hvillamardev"><img src="https://activity-graph.herokuapp.com/graph?username=hvillamardev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ###
 
