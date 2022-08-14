@@ -1,7 +1,6 @@
-## Hi all 👋, I'm Hilario
+## Hi all 👋, I'm Hilario.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Software+Engineer;Technical+Leader;Software+Architect)](https://git.io/typing-svg)
-
 I am a Full-Stack Software Engineer with 6+ years of experience in the Design, Development, Integration and Implementation of Technological Solutions and IT Project Management with the use of Agile Methodologies and Lean Approaches. I have experience in Team Leadership in the areas of Innovation, Software Architecture and Projects in IIot and AI Technologies.
 
 - 🌍  I'm based in Guayaquil, Ecuador
