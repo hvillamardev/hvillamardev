@@ -1,4 +1,4 @@
-# Hi all <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Hilario.
+# Hi all <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hilario.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Software+Engineer;Technical+Leader;Software+Architect)](https://git.io/typing-svg)
 
