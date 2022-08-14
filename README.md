@@ -1,4 +1,4 @@
-## Hi all 👋, I'm Hilario.
+# Hi all 👋, I'm Hilario.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Software+Engineer;Technical+Leader;Software+Architect)](https://git.io/typing-svg)
 
