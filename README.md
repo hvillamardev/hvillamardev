@@ -5,7 +5,7 @@
 I am a Full-Stack Software Engineer with 6+ years of experience in the design, development, integration and implementation of technological solutions and IT project management using agile methodologies and lean approaches. I have experience leading technical teams in areas of innovation, software architecture and projects in Web, IIot and AI technologies.
 
 - 🌍  I'm based in Guayaquil, Ecuador
-- 🖥️  See my portfolio at [hvillamardev](http://hvillamardev.netlify.app/)
+- 🖥️  See my portfolio at [hvillamar](https://hvillamar.ikusoft.tech/)
 - 🧠  I'm learning Artificial Intelligence
 - 🤝  I'm open to collaborating on Web, IoT and AI projects
 
