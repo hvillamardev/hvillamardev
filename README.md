@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Software+Engineer;Technical+Leader;Software+Architect)](https://git.io/typing-svg)
 
-I am a Full-Stack Software Engineer with 6+ years of experience in the design, development, integration and implementation of technological solutions and IT project management using agile methodologies and lean approaches. I have experience leading technical teams in areas of innovation, software architecture and projects in Web, IIot and AI technologies.
+I am a Full-Stack Software Engineer with 7+ years of experience in the design, development, integration and implementation of technological solutions and IT project management using agile methodologies and lean approaches. I have experience leading technical teams in areas of innovation, software architecture and projects in Web, IIot and AI technologies.
 
 - 🌍  I'm based in Guayaquil, Ecuador
 - 🖥️  See my portfolio at [hvillamar](https://hvillamar.ikusoft.tech/)
