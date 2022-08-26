@@ -13,7 +13,7 @@ I am a Full-Stack Software Engineer with 6+ years of experience in the design, d
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9cb2c709-c879-4732-8c8f-07508067df90" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-https://www.credly.com/badges/c4f16c64-2d47-47bd-9492-81d317cc5442/public_url
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4f16c64-2d47-47bd-9492-81d317cc5442" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ### Skills
